@@ -15,7 +15,7 @@ I needed the repo url so I could make a QR code to put on the board before I hav
 
 ## Features
 
-- Data pads so it can be used for flash carts, or any other od someone may find a use for. This was a request of @fox8091, but I might take advantage of it with an upcoming thing I’m working on.
+- Data pads so it can be used for flash carts, or any other od someone may find a use for. This was a request of [@fox8091](https://github.com/fox8091), but I might take advantage of it with an upcoming thing I’m working on.
 - A Schottky diode to bring the voltage the system gets close to what it expects for voltage. Why? With the amount of 3ds systems I see that have dying parts(ram, emmc, etc...), I figured I'd try to help prevent any extra stress even if it's such a small diff in voltage. It wants 4.6v but will take 5v seemingly fine. This will give it closer to 4.7v.
 - It retains support for the dock on both "Old" and "New" lines. The dock bypasses the diode as it’ll be sending the correct voltage to begin with.
 - 2 5.1kΩ resistors on the CC lines so it will trigger USB-PD at 5v. AKA it works with C to C cables, not just A to C.
