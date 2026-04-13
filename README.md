@@ -57,7 +57,7 @@ There is no Schematic as there is 0 use for one. Why you may ask. Because it's l
 
 ### 3D Render  
 
-<p align="center"><img width="881" height="439"  alt="2D Bottom" src="https://github.com/pbanj/The-New-3DS-C/blob/main/Pictures/3Drender.png" /></p>  
+<p align="center"><img width="773" height="495"  alt="2D Bottom" src="https://github.com/pbanj/The-New-3DS-C/blob/main/Pictures/3Drender.png" /></p>  
 
 
 
