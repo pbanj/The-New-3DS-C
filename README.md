@@ -52,7 +52,7 @@ There is no Schematic as there is 0 use for one. Why you may ask. Because it's l
 
 ### Prototype  
 
-<p align="center"><img width="881" height="439"  alt="2D Bottom" src="https://github.com/pbanj/The-New-3DS-C/blob/main/Pictures/Prototype.webp" /></p>  
+<p align="center"><img width="500" height="667"  alt="2D Bottom" src="https://github.com/pbanj/The-New-3DS-C/blob/main/Pictures/Prototype.webp" /></p>  
 
 
 ### 3D Render  
